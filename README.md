@@ -1,1 +1,3 @@
-# .github
+# Xeffyr (Leonid Pliushch)
+
+Leonid Pliushch had been a very integral part of the **core** Termux development team. From packaging software to keeping them updated and also helping contributors get their contributions merged, they have done a lot to shape the present of Termux. Due to some reason they deleted their account. We hope they are all well wherever they are in the world. This organisation has been created in order to prevent anyone else from hoarding this username. Also if they consider joining GitHub again, they can contact @thunder-coding, current owner of this organisation to delete this so that they can use their old username.
